@@ -7,7 +7,7 @@ jangan di ubah entar error baru nangis
 
 cara run di termux
 
-apt install ffmpeg
+[![apt install ffmpeg
 apt install imagemagick
 apt install nodejs
 apt install git
