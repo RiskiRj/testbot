@@ -7,3 +7,12 @@ jangan di ubah entar error baru nangis
 
 cara run di termux
 
+apt install ffmpeg
+apt install imagemagick
+apt install nodejs
+apt install git
+https://github.com/RiskiRj/Botwa22.git
+cd Botwa22
+npm i
+node . (option)
+````
